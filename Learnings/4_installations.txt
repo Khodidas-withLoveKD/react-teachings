@@ -1,0 +1,21 @@
+// Node - 14.17.0
+npm install -g n
+n 14.17.0
+
+// Npm version - 6.14.8
+npm -v
+
+// Create a react app
+npx create-react-app your-app-name
+// will take some time to install all dependencies
+
+// install react router
+npm install react-router-dom
+// verify in package.json
+
+// install redux
+npm install redux react-redux
+// verify in package.json
+
+
+
